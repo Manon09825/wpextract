@@ -13,6 +13,6 @@ def extract_links(page: str) -> list[str]:
 
 
 if __name__ == "__main__":
-# pour que ça ne s'exécute pas quand on l'importe dans cli.py etc
+# pour que ça ne s'exécute pas quand on importe dans cli.py etc
     res = extract_links("UPN est une [[Université]] située en [[Ile de France]].")
     print(res)
