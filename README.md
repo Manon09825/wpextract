@@ -2,6 +2,7 @@ Wiki Extract
 ============
 
 Extract links from wikicode.
+This code was built as part of L.Grobol's *Interfaces web* class in the second year of a Master's degree in NLP.
 
 ## How to use this
 Install dependencies
